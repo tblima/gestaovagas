@@ -1,8 +1,8 @@
 package br.dev.tblima.gestaovagas.modules.candidate.useCases;
 
 import br.dev.tblima.gestaovagas.exceptions.UserFoundException;
-import br.dev.tblima.gestaovagas.modules.candidate.CandidateEntity;
-import br.dev.tblima.gestaovagas.modules.candidate.CandidateRepository;
+import br.dev.tblima.gestaovagas.modules.candidate.entities.CandidateEntity;
+import br.dev.tblima.gestaovagas.modules.candidate.repositories.CandidateRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

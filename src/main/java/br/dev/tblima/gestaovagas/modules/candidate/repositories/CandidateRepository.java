@@ -1,5 +1,6 @@
-package br.dev.tblima.gestaovagas.modules.candidate;
+package br.dev.tblima.gestaovagas.modules.candidate.repositories;
 
+import br.dev.tblima.gestaovagas.modules.candidate.entities.CandidateEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

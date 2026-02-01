@@ -1,4 +1,4 @@
-package br.dev.tblima.gestaovagas.modules.candidate;
+package br.dev.tblima.gestaovagas.modules.candidate.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
